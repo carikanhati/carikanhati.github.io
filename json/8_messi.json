@@ -1,0 +1,23 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid2": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid3": "ca-app-pub-4132761121202947/1373500388",
+      "admob_bannerid": "xxca-app-pub-4132761121202947/4155043564",
+      "admob_openid": "ca-app-pub-4132761121202947/5478718509",
+      "interval_intertitial": "5",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.lionel_messi_elclasico_fake_chat_fake_call"
+    }
+  ]
+}
