@@ -27,185 +27,185 @@
 [
   {
     "id":1,
-    "title":"Jeon Jung-Kook",
-    "description":"+82 889-452-1111",
-    "image":"file:///android_asset/alienboot/image/jungkook1.webp",
-    "videoid":"https://carikanhati.github.io/video/jungkook/jungkook1.mp4"
+    "title":"Belcalis Marlenis Almánzar",
+    "description":"+1 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/cardi1.webp",
+    "videoid":"https://carikanhati.github.io/video/cardi/cardi1.mp4"
   },
   {
   "id":2,
-  "title":"Jeon Jung-Kook",
-  "description":"+82 808-452-0105",
-    "image":"file:///android_asset/alienboot/image/jungkook2.webp",
-  "videoid":"https://carikanhati.github.io/video/jungkook/jungkook2.mp4"
+  "title":"Cardi B",
+  "description":"+1 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/cardi2.webp",
+  "videoid":"https://carikanhati.github.io/video/cardi/cardi1.mp4"
   },
   {
     "id":3,
-    "title":"Jeon Jung-Kook",
-    "description":"+82 888-452-0901",
-    "image":"file:///android_asset/alienboot/image/jungkook3.webp",
-    "videoid":"https://carikanhati.github.io/video/jungkook/jungkook1.mp4"
+    "title":"Belcalis Marlenis Almánzar",
+    "description":"+1 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/cardi3.webp",
+    "videoid":"https://carikanhati.github.io/video/cardi/cardi1.mp4"
   },
   {
   "id":4,
-  "title":"Jeon Jung-Kook",
-  "description":"+82 888-122-1025",
-    "image":"file:///android_asset/alienboot/image/jungkook4.webp",
-  "videoid":"https://carikanhati.github.io/video/jungkook/jungkook2.mp4"
+  "title":"B Cardi",
+  "description":"+1 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/cardi4.webp",
+  "videoid":"https://carikanhati.github.io/video/cardi/cardi1.mp4"
   }
 ],
   "Wallpaper":
   [
     {
       "id":1,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook1.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi1.webp"
     },
     {
       "id": 2,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook2.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi2.webp"
     },
     {
       "id":3,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook3.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi3.webp"
     },
     {
       "id":4,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook4.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi4.webp"
     },
 
     {
       "id":5,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook5.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi5.webp"
     },
     {
       "id":6,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook6.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi6.webp"
     },
     {
       "id":7,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook7.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi7.webp"
     },
     {
       "id":8,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook8.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi8.webp"
     },
     {
       "id":9,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook9.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi9.webp"
     },
     {
       "id":10,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook10.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi10.webp"
     },
     {
       "id":11,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook11.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi11.webp"
     },
     {
       "id":12,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook12.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi12.webp"
     },
     {
       "id":13,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook13.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi13.webp"
     },
     {
       "id":14,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook14.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi14.webp"
     },
     {
       "id":15,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook15.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi15.webp"
     },
     {
       "id":16,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook16.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi16.webp"
     },
     {
       "id":17,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook17.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi17.webp"
     },
     {
       "id":18,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook18.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi18.webp"
     },
     {
       "id":19,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook19.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi19.webp"
     },
     {
       "id":20,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook20.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi20.webp"
     },
     {
       "id":21,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook21.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi21.webp"
     },
     {
       "id":22,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook22.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi22.webp"
     },
     {
       "id":23,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook23.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi23.webp"
     },
     {
       "id":24,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook24.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi24.webp"
     },
     {
       "id":25,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook25.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi25.webp"
     },
     {
       "id": 26,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook26.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi26.webp"
     },
     {
       "id": 27,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook27.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi27.webp"
     },
     {
       "id": 28,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook28.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi28.webp"
     },
     {
       "id": 29,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook29.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi29.webp"
     },
     {
       "id": 30,
-      "title":"Jeon Jung-Kook",
-      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook30.webp"
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardi/cardi30.webp"
     }
   ]
 }
