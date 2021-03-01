@@ -1,0 +1,211 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid2": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid3": "ca-app-pub-4132761121202947/1373500388",
+      "admob_bannerid": "xxca-app-pub-4132761121202947/4155043564",
+      "admob_openid": "ca-app-pub-4132761121202947/5478718509",
+      "interval_intertitial": "4",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.captain_henry_danger_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Henry Danger",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/chenry1.webp",
+    "videoid":"https://carikanhati.github.io/video/chenry/chenry1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Henry Danger",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/chenry2.webp",
+  "videoid":"https://carikanhati.github.io/video/chenry/chenry2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Henry Danger",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/chenry3.webp",
+    "videoid":"https://carikanhati.github.io/video/chenry/chenry1.mp4"
+  },
+  {
+  "id":4,
+  "title":"Henry Danger",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/chenry4.webp",
+  "videoid":"https://carikanhati.github.io/video/chenry/chenry2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry2.webp"
+    },
+    {
+      "id":3,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry3.webp"
+    },
+    {
+      "id":4,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry5.webp"
+    },
+    {
+      "id":6,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry6.webp"
+    },
+    {
+      "id":7,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry7.webp"
+    },
+    {
+      "id":8,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry8.webp"
+    },
+    {
+      "id":9,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry9.webp"
+    },
+    {
+      "id":10,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry10.webp"
+    },
+    {
+      "id":11,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry11.webp"
+    },
+    {
+      "id":12,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry12.webp"
+    },
+    {
+      "id":13,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry13.webp"
+    },
+    {
+      "id":14,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry14.webp"
+    },
+    {
+      "id":15,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry15.webp"
+    },
+    {
+      "id":16,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry16.webp"
+    },
+    {
+      "id":17,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry17.webp"
+    },
+    {
+      "id":18,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry18.webp"
+    },
+    {
+      "id":19,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry19.webp"
+    },
+    {
+      "id":20,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry20.webp"
+    },
+    {
+      "id":21,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry21.webp"
+    },
+    {
+      "id":22,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry22.webp"
+    },
+    {
+      "id":23,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry23.webp"
+    },
+    {
+      "id":24,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry24.webp"
+    },
+    {
+      "id":25,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Henry Danger",
+      "image": "https://carikanhati.github.io/gambar/chenry/chenry30.webp"
+    }
+  ]
+}
