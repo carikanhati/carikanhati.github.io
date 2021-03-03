@@ -1,0 +1,211 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid2": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid3": "ca-app-pub-4132761121202947/1373500388",
+      "admob_bannerid": "xxca-app-pub-4132761121202947/4155043564",
+      "admob_openid": "ca-app-pub-4132761121202947/5478718509",
+      "interval_intertitial": "4",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.yt_giovana_alparone_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Giovana Alparone",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/alparone1.webp",
+    "videoid":"https://carikanhati.github.io/video/alparone/alparone1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Giovana Alparone",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/alparone2.webp",
+  "videoid":"https://carikanhati.github.io/video/alparone/alparone2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Giovana Alparone",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/alparone3.webp",
+    "videoid":"https://carikanhati.github.io/video/alparone/alparone1.mp4"
+  },
+  {
+  "id":4,
+  "title":"Giovana Alparone",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/alparone4.webp",
+  "videoid":"https://carikanhati.github.io/video/alparone/alparone2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone2.webp"
+    },
+    {
+      "id":3,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone3.webp"
+    },
+    {
+      "id":4,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone5.webp"
+    },
+    {
+      "id":6,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone6.webp"
+    },
+    {
+      "id":7,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone7.webp"
+    },
+    {
+      "id":8,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone8.webp"
+    },
+    {
+      "id":9,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone9.webp"
+    },
+    {
+      "id":10,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone10.webp"
+    },
+    {
+      "id":11,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone11.webp"
+    },
+    {
+      "id":12,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone12.webp"
+    },
+    {
+      "id":13,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone13.webp"
+    },
+    {
+      "id":14,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone14.webp"
+    },
+    {
+      "id":15,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone15.webp"
+    },
+    {
+      "id":16,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone16.webp"
+    },
+    {
+      "id":17,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone17.webp"
+    },
+    {
+      "id":18,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone18.webp"
+    },
+    {
+      "id":19,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone19.webp"
+    },
+    {
+      "id":20,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone20.webp"
+    },
+    {
+      "id":21,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone21.webp"
+    },
+    {
+      "id":22,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone22.webp"
+    },
+    {
+      "id":23,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone23.webp"
+    },
+    {
+      "id":24,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone24.webp"
+    },
+    {
+      "id":25,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Giovana Alparone",
+      "image": "https://carikanhati.github.io/gambar/alparone/alparone30.webp"
+    }
+  ]
+}
