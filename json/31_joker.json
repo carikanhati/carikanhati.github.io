@@ -1,0 +1,186 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid2": "ca-app-pub-4132761121202947/1373500388",
+      "admob_interid3": "ca-app-pub-4132761121202947/1373500388",
+      "admob_bannerid": "ca-app-pub-4132761121202947/4155043564",
+      "admob_openid": "ca-app-pub-4132761121202947/5478718509",
+      "interval_intertitial": "4",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.mister_max_yt_and_katy_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Mister Max",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/mister1.jpg",
+    "videoid":"https://carikanhati.github.io/video/mister/mister1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Mister Max",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/mister2.jpg",
+  "videoid":"https://carikanhati.github.io/video/mister/mister2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Mister Max",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/mister3.jpg",
+    "videoid":"https://carikanhati.github.io/video/mister/mister1.mp4"
+  },
+  {
+  "id":4,
+  "title":"Mister Max",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/mister4.jpg",
+  "videoid":"https://carikanhati.github.io/video/mister/mister2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/1.jpg"
+    },
+    {
+      "id": 2,
+      "title":"Mister Max",
+      "image":"https://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/2.jpg"
+    },
+    {
+      "id":3,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/3.jpg"
+    },
+    {
+      "id":4,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/4.jpg"
+    },
+
+    {
+      "id":5,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/5.jpg"
+    },
+    {
+      "id":6,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/6.jpg"
+    },
+    {
+      "id":7,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/7.jpg"
+    },
+    {
+      "id":8,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/8.jpg"
+    },
+    {
+      "id":9,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/9.jpg"
+    },
+    {
+      "id":10,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/10.jpg"
+    },
+    {
+      "id":11,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/11.jpg"
+    },
+    {
+      "id":12,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/12.jpg"
+    },
+    {
+      "id":13,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/13.jpg"
+    },
+    {
+      "id":14,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/14.jpg"
+    },
+    {
+      "id":15,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/15.jpg"
+    },
+    {
+      "id":16,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/16.jpg"
+    },
+    {
+      "id":17,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/17.jpg"
+    },
+    {
+      "id":18,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/18.jpg"
+    },
+    {
+      "id":19,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/19.jpg"
+    },
+    {
+      "id":20,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/20.jpg"
+    },
+    {
+      "id":21,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/21.jpg"
+    },
+    {
+      "id":22,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/22.jpg"
+    },
+    {
+      "id":23,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/23.jpg"
+    },
+    {
+      "id":24,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/24.jpg"
+    },
+    {
+      "id":25,
+      "title":"Mister Max",
+      "image":"http://www.kangboy.my.id/allserver/wallpaperkangboy/Joker/25.jpg"
+    }
+  ]
+}
