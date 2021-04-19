@@ -1,0 +1,23 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "XXca-app-pub-4132761121202947/5730350930",
+      "admob_interid2": "XXca-app-pub-4132761121202947/3104187596",
+      "admob_interid3": "XXca-app-pub-4132761121202947/8164942584",
+      "admob_bannerid": "XXca-app-pub-4132761121202947/3407439926",
+      "admob_openid": "XXca-app-pub-4132761121202947/3650982506",
+      "interval_intertitial": "6",
+      "startappid": "203085380",
+      "fan_inter": "314991750053622_314991800053617",
+      "fan_banner": "314991750053622_314991790053618",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.bts_suga_min_yoon_gi_fake_chat_fakecall"
+    }
+  ]
+}

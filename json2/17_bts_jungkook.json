@@ -1,0 +1,211 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "XXca-app-pub-4132761121202947/5730350930",
+      "admob_interid2": "XXca-app-pub-4132761121202947/3104187596",
+      "admob_interid3": "XXca-app-pub-4132761121202947/8164942584",
+      "admob_bannerid": "XXca-app-pub-4132761121202947/3407439926",
+      "admob_openid": "XXca-app-pub-4132761121202947/3650982506",
+      "interval_intertitial": "4",
+      "startappid": "203085380",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.bts_jungkook_jjk_army_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Jeon Jung-Kook",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/jungkook1.webp",
+    "videoid":"https://carikanhati.github.io/video/jungkook/jungkook1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Jeon Jung-Kook",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/jungkook2.webp",
+  "videoid":"https://carikanhati.github.io/video/jungkook/jungkook2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Jeon Jung-Kook",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/jungkook3.webp",
+    "videoid":"https://carikanhati.github.io/video/jungkook/jungkook1.mp4"
+  },
+  {
+  "id":4,
+  "title":"Jeon Jung-Kook",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/jungkook4.webp",
+  "videoid":"https://carikanhati.github.io/video/jungkook/jungkook2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook2.webp"
+    },
+    {
+      "id":3,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook3.webp"
+    },
+    {
+      "id":4,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook5.webp"
+    },
+    {
+      "id":6,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook6.webp"
+    },
+    {
+      "id":7,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook7.webp"
+    },
+    {
+      "id":8,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook8.webp"
+    },
+    {
+      "id":9,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook9.webp"
+    },
+    {
+      "id":10,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook10.webp"
+    },
+    {
+      "id":11,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook11.webp"
+    },
+    {
+      "id":12,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook12.webp"
+    },
+    {
+      "id":13,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook13.webp"
+    },
+    {
+      "id":14,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook14.webp"
+    },
+    {
+      "id":15,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook15.webp"
+    },
+    {
+      "id":16,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook16.webp"
+    },
+    {
+      "id":17,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook17.webp"
+    },
+    {
+      "id":18,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook18.webp"
+    },
+    {
+      "id":19,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook19.webp"
+    },
+    {
+      "id":20,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook20.webp"
+    },
+    {
+      "id":21,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook21.webp"
+    },
+    {
+      "id":22,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook22.webp"
+    },
+    {
+      "id":23,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook23.webp"
+    },
+    {
+      "id":24,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook24.webp"
+    },
+    {
+      "id":25,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Jeon Jung-Kook",
+      "image": "https://carikanhati.github.io/gambar/jungkook/jungkook30.webp"
+    }
+  ]
+}

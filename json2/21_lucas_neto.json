@@ -1,0 +1,116 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "XXca-app-pub-4132761121202947/5730350930",
+      "admob_interid2": "XXca-app-pub-4132761121202947/3104187596",
+      "admob_interid3": "XXca-app-pub-4132761121202947/8164942584",
+      "admob_bannerid": "XXca-app-pub-4132761121202947/3407439926",
+      "admob_openid": "XXca-app-pub-4132761121202947/3650982506",
+      "interval_intertitial": "4",
+      "startappid": "203085380",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.lucas_neto_yt_lucas_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Lucas Neto",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/lucasneto1.webp",
+    "videoid":"https://carikanhati.github.io/video/lucasneto/lucasneto1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Lucas Neto",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/lucasneto2.webp",
+  "videoid":"https://carikanhati.github.io/video/lucasneto/lucasneto2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Lucas Neto",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/lucasneto3.webp",
+    "videoid":"https://carikanhati.github.io/video/lucasneto/lucasneto3.mp4"
+  },
+  {
+  "id":4,
+  "title":"Lucas Neto",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/lucasneto4.webp",
+  "videoid":"https://carikanhati.github.io/video/lucasneto/lucasneto2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto2.webp"
+    },
+    {
+      "id":3,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto3.webp"
+    },
+    {
+      "id":4,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto5.webp"
+    },
+    {
+      "id":6,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto6.webp"
+    },
+    {
+      "id":7,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto7.webp"
+    },
+    {
+      "id":8,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto8.webp"
+    },
+    {
+      "id":9,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto9.webp"
+    },
+    {
+      "id":10,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto10.webp"
+    },
+    {
+      "id":11,
+      "title":"Lucas Neto",
+      "image": "https://carikanhati.github.io/gambar/lucasneto/lucasneto11.webp"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "XXca-app-pub-4132761121202947/5730350930",
+      "admob_interid2": "XXca-app-pub-4132761121202947/3104187596",
+      "admob_interid3": "XXca-app-pub-4132761121202947/8164942584",
+      "admob_bannerid": "XXca-app-pub-4132761121202947/3407439926",
+      "admob_openid": "XXca-app-pub-4132761121202947/3650982506",
+      "interval_intertitial": "4",
+      "startappid": "203085380",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.cardib_belcalis_marlenis_almanzar_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Belcalis Marlenis Almánzar",
+    "description":"+1 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/cardib1.webp",
+    "videoid":"https://carikanhati.github.io/video/cardib/cardib1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Cardi B",
+  "description":"+1 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/cardib2.webp",
+  "videoid":"https://carikanhati.github.io/video/cardib/cardib1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Belcalis Marlenis Almánzar",
+    "description":"+1 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/cardib3.webp",
+    "videoid":"https://carikanhati.github.io/video/cardib/cardib1.mp4"
+  },
+  {
+  "id":4,
+  "title":"B Cardi",
+  "description":"+1 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/cardib4.webp",
+  "videoid":"https://carikanhati.github.io/video/cardib/cardib1.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib2.webp"
+    },
+    {
+      "id":3,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib3.webp"
+    },
+    {
+      "id":4,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib5.webp"
+    },
+    {
+      "id":6,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib6.webp"
+    },
+    {
+      "id":7,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib7.webp"
+    },
+    {
+      "id":8,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib8.webp"
+    },
+    {
+      "id":9,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib9.webp"
+    },
+    {
+      "id":10,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib10.webp"
+    },
+    {
+      "id":11,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib11.webp"
+    },
+    {
+      "id":12,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib12.webp"
+    },
+    {
+      "id":13,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib13.webp"
+    },
+    {
+      "id":14,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib14.webp"
+    },
+    {
+      "id":15,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib15.webp"
+    },
+    {
+      "id":16,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib16.webp"
+    },
+    {
+      "id":17,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib17.webp"
+    },
+    {
+      "id":18,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib18.webp"
+    },
+    {
+      "id":19,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib19.webp"
+    },
+    {
+      "id":20,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib20.webp"
+    },
+    {
+      "id":21,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib21.webp"
+    },
+    {
+      "id":22,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib22.webp"
+    },
+    {
+      "id":23,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib23.webp"
+    },
+    {
+      "id":24,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib24.webp"
+    },
+    {
+      "id":25,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Belcalis Marlenis Almánzar",
+      "image": "https://carikanhati.github.io/gambar/cardib/cardib30.webp"
+    }
+  ]
+}

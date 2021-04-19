@@ -1,0 +1,206 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "XXca-app-pub-4132761121202947/5730350930",
+      "admob_interid2": "XXca-app-pub-4132761121202947/3104187596",
+      "admob_interid3": "XXca-app-pub-4132761121202947/8164942584",
+      "admob_bannerid": "XXca-app-pub-4132761121202947/3407439926",
+      "admob_openid": "XXca-app-pub-4132761121202947/3650982506",
+      "interval_intertitial": "4",
+      "startappid": "203085380",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "packagename": "com.cari.yt_mariaclara_e_jp_fake_chat_fake_call"
+    }
+  ],
+
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Maria Clara",
+    "description":"+82 889-452-1111",
+    "image":"file:///android_asset/alienboot/image/mariaclara1.webp",
+    "videoid":"https://carikanhati.github.io/video/mariaclara/mariaclara1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Maria Clara",
+  "description":"+82 808-452-0105",
+    "image":"file:///android_asset/alienboot/image/mariaclara2.webp",
+  "videoid":"https://carikanhati.github.io/video/mariaclara/mariaclara2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Maria Clara",
+    "description":"+82 888-452-0901",
+    "image":"file:///android_asset/alienboot/image/mariaclara3.webp",
+    "videoid":"https://carikanhati.github.io/video/mariaclara/mariaclara1.mp4"
+  },
+  {
+  "id":4,
+  "title":"Maria Clara",
+  "description":"+82 888-122-1025",
+    "image":"file:///android_asset/alienboot/image/mariaclara4.webp",
+  "videoid":"https://carikanhati.github.io/video/mariaclara/mariaclara2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara2.webp"
+    },
+    {
+      "id":3,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara3.webp"
+    },
+    {
+      "id":4,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara5.webp"
+    },
+    {
+      "id":6,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara6.webp"
+    },
+    {
+      "id":7,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara7.webp"
+    },
+    {
+      "id":8,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara8.webp"
+    },
+    {
+      "id":9,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara9.webp"
+    },
+    {
+      "id":10,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara10.webp"
+    },
+    {
+      "id":11,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara11.webp"
+    },
+    {
+      "id":12,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara12.webp"
+    },
+    {
+      "id":13,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara13.webp"
+    },
+    {
+      "id":14,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara14.webp"
+    },
+    {
+      "id":15,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara15.webp"
+    },
+    {
+      "id":16,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara16.webp"
+    },
+    {
+      "id":17,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara17.webp"
+    },
+    {
+      "id":18,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara18.webp"
+    },
+    {
+      "id":19,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara19.webp"
+    },
+    {
+      "id":20,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara20.webp"
+    },
+    {
+      "id":21,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara21.webp"
+    },
+    {
+      "id":22,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara22.webp"
+    },
+    {
+      "id":23,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara23.webp"
+    },
+    {
+      "id":24,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara24.webp"
+    },
+    {
+      "id":25,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Maria Clara",
+      "image": "https://carikanhati.github.io/gambar/mariaclara/mariaclara29.webp"
+    }
+  ]
+}
