@@ -3,11 +3,11 @@
     {
       "select_ads": "ADMOB",
       "status_app": "0",
-      "link_redirect": "https://",
+      "link_redirect": "https://s",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
       "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
       "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-      "interval_intertitial": "5",
+      "interval_intertitial": "6",
       "startappid": "201669628",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
