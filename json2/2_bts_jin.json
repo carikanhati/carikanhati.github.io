@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -11,7 +11,7 @@
       "admob_interid3": "ca-app-pub-8201235988570974/9073146217",
       "admob_bannerid": "ca-app-pub-8201235988570974/4913219982",
       "admob_openid": "ca-app-pub-8201235988570974/6446982872",
-      "interval_intertitial": "5",
+      "interval_intertitial": "6",
       "startappid": "203085380",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
