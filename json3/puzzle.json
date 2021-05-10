@@ -4,15 +4,23 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+
+
       "select_ads":"",
-      "interval":"",
+      "interval":"2",
+      "startappid":"203085380",
+
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_open_ads":"",
+
+      
+
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
-      "startappid":""   ,
+
+      
       "kidoz_pub_id":"",
       "kidoz_token":""
     }
