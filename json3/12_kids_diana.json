@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -17,9 +17,9 @@
       "interval_intertitial": "5",
       "startappid": "203085380",
 
-      "fan_inter": "XX",
-      "fan_natine_banner": "XX",
-      "fan_natine": "XX",
+      "fan_inter": "344853096970705_344853156970699",
+      "fan_natine_banner": "344853096970705_363073495148665",
+      "fan_natine": "344853096970705_363073368482011",
 
       "mopub_banner": "XX",
       "mopub_inter": "XX"
