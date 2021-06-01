@@ -1,8 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
-      "status_app": "0",
+      "select_ads": "FACEBOOK"
       "link_redirect": "https://",
 
 
