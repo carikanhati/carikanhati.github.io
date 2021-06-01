@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "b3_loren_gray.json",
+			"settings":
+			{
+				"buffer_size": 719,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "0.json",
+			"settings":
+			{
+				"buffer_size": 491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "1_bts_jimin.json",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2_bts_jin.json",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "3_bts_suga.json",
+			"settings":
+			{
+				"buffer_size": 817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "5_vin_diesel.json",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "6_ronaldo.json",
+			"settings":
+			{
+				"buffer_size": 753,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "7_taylor.json",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "12_kids_diana.json",
+			"settings":
+			{
+				"buffer_size": 811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "13_shfa.json",
+			"settings":
+			{
+				"buffer_size": 811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "23_luluca.json",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "27_charli.json",
+			"settings":
+			{
+				"buffer_size": 808,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "29_chotu_dada.json",
+			"settings":
+			{
+				"buffer_size": 808,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "b2_riyaz_aly.json",
+			"settings":
+			{
+				"buffer_size": 724,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "b4_dixie.json",
+			"settings":
+			{
+				"buffer_size": 724,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "b5_michael_le.json",
+			"settings":
+			{
+				"buffer_size": 719,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "baru_01_bella_poarch.json",
+			"settings":
+			{
+				"buffer_size": 732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/saifmac/SAIF/UPDATE ANDROID/23 LULUCA/app/src/main/java/com/cari/luluca_yt_crescendo_luluca_fake_chat_fake_call/activity/SplashActivity.java",
+		"/Users/saifmac/hati/json3/29_chotu_dada.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/PUZZLE APPODEAL/app/src/main/java/com/cari/luluca_cresscendo/jigsaw_puzzle/ui/MainActivity.java",
+		"/Users/saifmac/hati/json3/23_luluca.json",
+		"/Users/saifmac/hati/json3/6_ronaldo.json",
+		"/Volumes/BOOTCAMP/TERSEPONA/json/8_addison.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/PUZZLE APPODEAL/app/src/main/java/com/cari/luluca_cresscendo/jigsaw_puzzle/asset/WallpaperAdapter.java",
+		"/Users/saifmac/Downloads/aliendroid-digital-file-4601ea254d0524/fakeCall/app/src/main/java/com/aliendroid/fakecall/activity/WAVoiceCallActivity.java",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/PUZZLE APPODEAL/app/src/main/java/com/cari/luluca_cresscendo/jigsaw_puzzle/config/AppOpenManager.java",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/PUZZLE APPODEAL/app/src/main/java/com/cari/luluca_cresscendo/jigsaw_puzzle/ui/SplashActivity.java",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/PUZZLE APPODEAL/app/src/main/res/layout/activity_list copy.xml",
+		"/Users/saifmac/hati/json3/1_bts_jimin.json",
+		"/Users/saifmac/hati/json3/p09_snsd.json",
+		"/Users/saifmac/hati/json3/p10_superjunior.json",
+		"/Users/saifmac/hati/json/14_like_nastya.json",
+		"/Users/saifmac/hati/json2/14_like_nastya.json",
+		"/Users/saifmac/hati/json3/p04_luluca.json",
+		"/Users/saifmac/hati/json3/p05_twice.json",
+		"/Users/saifmac/hati/json3/p06_nct.json",
+		"/Users/saifmac/hati/json3/p07_exo.json",
+		"/Users/saifmac/hati/json3/p08_red_velvet.json",
+		"/Users/saifmac/hati/json3/27_charli.json",
+		"/Users/saifmac/hati/json3/p01_bts.json",
+		"/Users/saifmac/Downloads/google-services.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/Z1 BTS PUZZLE/app/src/main/assets/puzzle.json",
+		"/Users/saifmac/Downloads/google-services-1.json",
+		"/Users/saifmac/hati/json3/p03_djs.json",
+		"/Users/saifmac/hati/json3/p02_blackpink.json",
+		"/Users/saifmac/hati/json3/b2_riyaz_aly.json",
+		"/Users/saifmac/hati/json3/b4_dixie.json",
+		"/Users/saifmac/hati/json3/b5_michael_le.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/B3 LOREN GREY/app/src/main/java/com/cari/lorengray_fakecall_fakechat/config/Settings.java",
+		"/Users/saifmac/hati/json3/b3_loren_gray.json",
+		"/Volumes/GODEV5 - Data/Users/godev5/IS KLIPI MIDI/ANDROID 5/17 RIYAZ ALY/app/src/main/assets/fake_call.json",
+		"/Users/saifmac/hati/json/23_luluca.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/z3 DJS PUZZLE/app/src/main/assets/puzzle.json",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/1 BTS JIMIN/app/src/main/AndroidManifest.xml",
+		"/Users/saifmac/hati/json3/baru_01_bella_poarch.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/BARU 1 BELLA POARCH/app/src/main/AndroidManifest.xml",
+		"/Users/saifmac/hati/json3/puzzle.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/Z1 BTS PUZZLE/app/src/main/res/layout/activity_main.xml",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/z3 DJS PUZZLE/app/src/main/res/values/strings.xml",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/z3 DJS PUZZLE/app/src/main/java/com/cari/darijendelasmp_reybong_sandrinna_jokodanwulan/jigsaw_puzzle/config/Settings.java",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/Z1 BTS PUZZLE/app/src/main/res/values/strings.xml",
+		"/Users/saifmac/hati/json3/12_kids_diana.json",
+		"/Users/saifmac/hati/json/29_chotu_dada.json",
+		"/Users/saifmac/hati/json2/29_chotu_dada.json",
+		"/Users/saifmac/hati/json3/13_shfa.json",
+		"/Users/saifmac/hati/json2/4_bts_rm.json",
+		"/Users/saifmac/hati/json2/3_bts_suga.json",
+		"/Users/saifmac/hati/json2/2_bts_jin.json",
+		"/Users/saifmac/hati/json2/1_bts_jimin.json",
+		"/Users/saifmac/hati/pzl",
+		"/Users/saifmac/hati/json3/puzzle copy.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/puzzle",
+		"/Volumes/BOOTCAMP/fc/PROJECT FC/WALLPAPER SEMUA/4 BTS/app/src/main/assets/wallpaper.json",
+		"/Volumes/BOOTCAMP/fc/PROJECT FC/wallpaper.json",
+		"/Users/saifmac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/saifmac/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/23 LULUCA/app/src/main/assets/chatbot.json",
+		"/Volumes/GODEV5 - Data/Users/godev5/IS KLIPI MIDI/ANDROID 5/13 BELLA POARCH/app/src/main/assets/fake_call.json",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/27 CHARLI D AMALIO/app/src/main/assets/chatbot.json",
+		"/Users/saifmac/SAIF/UPDATE ANDROID/0/app/src/main/java/com/cari/fake_chat_fake_call/config/Settings.java",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/12 KIDS DIANA SHOW/app/src/main/assets/chatbot.json",
+		"/Users/saifmac/hati/json3/0.json",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/14 LIKE NASTYA/app/src/main/java/com/cari/like_nastya_chat_fake_call/Fragment/ContactFragment.java",
+		"/Users/saifmac/hati/json/3_bts_suga.json",
+		"/Users/saifmac/hati/json/2_bts_jin.json",
+		"/Users/saifmac/hati/json/1_bts_jimin.json",
+		"/Users/saifmac/hati/json/24_mecontro.json",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/24 ME CONTRO/app/src/main/java/com/cari/yt_me_contro_te_lui_de_sofi_fake_chat_fake_call/UtilityPackage/Settings.java",
+		"/Users/saifmac/hati/json2/6_ronaldo.json",
+		"/Users/saifmac/hati/json2/5_vin_diesel.json",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/6 RONALDO/app/src/main/java/com/cari/cristiano_ronaldo_cr7_fake_chat_fake_call/UtilityPackage/Settings.java",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/pregexercise-10/codecanyon-29867120-android-pregnancy-exercise-and-workout-at-home-fitness-app/mainfile/Pregnancy Yoga Workout/app/src/main/AndroidManifest.xml",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/pregexercise-10/codecanyon-29867120-android-pregnancy-exercise-and-workout-at-home-fitness-app/mainfile/Pregnancy Yoga Workout/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/saifmac/hati/json/4_bts_rm.json",
+		"/Users/saifmac/hati/json2/23_luluca.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Bootslander/index.html",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/4 BTS RM/app/src/main/java/com/cari/bts_rm_kim_nam_joon_fake_chat_fake_call/UtilityPackage/Settings.java",
+		"/Volumes/Untitled/01 CHOTU DADA/app/src/main/java/com/msa/chotudada_fakecall/activity/FBVideoCallActivity.java",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/1 BTS JIMIN/app/src/main/java/com/cari/bts_jimin_fake_chat_fakecall/UtilityPackage/Settings.java",
+		"/Volumes/GODEV5 - Data/Users/godev5/Desktop/FAKECALL GODEV 5/app/src/main/AndroidManifest.xml",
+		"/Volumes/Untitled 3/WINDOWS MAC/SIERRABEN/ANDROID/33 ALWI ASSEGAF/app/src/main/AndroidManifest.xml",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/2 BTS JIN/app/src/main/java/com/cari/bts_jin_fake_chat_fakecall/UtilityPackage/Settings.java",
+		"/Users/saifmac/SAIF/ANDROID PROJECT/FC TEST/app/src/main/java/com/fyp/reybong_darijendelasmp_joko/config/Pengaturan.java",
+		"/Users/saifmac/hati/json2/0.json",
+		"/Volumes/MACINTOSH HD - Data/Users/admin/hati/json2/3_bts_suga.json",
+		"/Volumes/MACINTOSH HD - Data/Users/admin/hati/json2/2_bts_jin.json",
+		"/Volumes/MACINTOSH HD - Data/Users/admin/hati/json2/1_bts_jimin.json",
+		"/Volumes/MACINTOSH HD - Data/Users/admin/SAIF/ANDROID PROJECT/FC TEST/app/src/main/java/com/fyp/reybong_darijendelasmp_joko/FBVideoCallActivity.java",
+		"/Volumes/BOOTCAMP/ANDROID/21 ALDE BARAN/app/src/main/java/com/nganu/arya_saloka_aldebaran/activity/FBVideoCallActivity.java",
+		"/Users/saifmac/Desktop/ANDROID PROJECT/2 BTS JIN/app/src/main/java/com/cari/bts_jin_fake_chat_fakecall/UtilityPackage/Settings.java",
+		"/Users/saifmac/Desktop/PROJECT BARU/Alien Chatboot/app/src/main/java/com/aliendroid/fakecall/activity/SplashActivity.java"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fan_natine"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fan_native"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "b3_loren_gray.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "0.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "1_bts_jimin.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "2_bts_jin.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "3_bts_suga.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "5_vin_diesel.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "6_ronaldo.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "7_taylor.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "12_kids_diana.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "13_shfa.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "23_luluca.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "27_charli.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "29_chotu_dada.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "b2_riyaz_aly.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "b4_dixie.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "b5_michael_le.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "baru_01_bella_poarch.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "0.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
