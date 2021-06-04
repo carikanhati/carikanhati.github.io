@@ -14,7 +14,9 @@
       "admob_inter":"",
       "admob_open_ads":"",
 
-      
+      "fan_inter": "XX",
+      "fan_native_banner": "XX",
+      "fan_native": "XX",
 
       "unityID":"",
       "unity_banner":"",
