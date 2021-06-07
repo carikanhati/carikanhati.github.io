@@ -1,0 +1,33 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+
+
+      "select_ads":"",
+      "interval":"2",
+      "startappid":"204608747",
+
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_open_ads":"",
+
+      
+
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+
+      "fan_inter": "XX",
+      "fan_native_banner": "XX",
+      "fan_native": "XX",
+
+      
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ]
+
+}
