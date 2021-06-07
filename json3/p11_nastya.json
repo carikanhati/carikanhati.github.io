@@ -2,7 +2,7 @@
 "Ads":
   [
     {
-      "status_redirect":"STARTAPP",
+      "status_redirect":"FACEBOOK",
       "link_redirect":"",
 
 
@@ -14,8 +14,8 @@
       "admob_inter":"",
       "admob_open_ads":"",
 
-      "fan_inter": "XX",
-      "fan_native_banner": "XX",
+      "fan_inter": "753005598729107_753005652062435",
+      "fan_native_banner": "753005598729107_753005648729102",
       "fan_native": "XX",
 
       "unityID":"",
