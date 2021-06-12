@@ -1,0 +1,154 @@
+{  
+
+
+	 "Iklan": [
+        {
+        "status": "jangan diisi",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "select_ads":"admo",
+
+        
+        "admob_inter": "57297",
+        "admob_native_banner":"4343",
+        "admob_open": "57297",
+  
+        
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "version_app":"1",
+        
+        "fan_inter":"xx",
+        "fan_native_banner":"xx",
+
+        "interval":"4",
+        "startappid":"123454689"
+
+        }
+    ],
+    
+  "Weblink":
+  [
+    {
+      "id":1,
+      "judul":"The first exercise is leg raise clap",
+      "deskripsi":"Lower down your legs slowly and lift them back up then crunch up and clap your hands",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting1.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting1/"
+    },
+    {
+      "id":2,
+      "judul":"Lift hips off the ground using your core muscles",
+      "deskripsi":"Make sure you're engaging your core here",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting2.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting2/"
+    },
+    {
+      "id":3,
+      "judul":"Spider-man plank",
+      "deskripsi":"Bring one leg to the side touching the elbow",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting3.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting4/"
+    },
+    {
+      "id":4,
+      "judul":"Cross body Mountain climber",
+      "deskripsi":"Bring your knees in as close to the opposite elbow as possible and tighten up your core guys",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting4.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting4/"
+    },
+    {
+      "id":5,
+      "judul":"Russian twist",
+      "deskripsi":"Do it slow and controlled and my abs were burning so badly at this point",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting5.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting5/"
+    },
+    {
+      "id":6,
+      "judul":"Jump into in & out straight away",
+      "deskripsi":"I'm really killing you guys here but breathe in as you extend your legs and breathe out as you bring your legs in and squeeze your abs",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting6.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting6/"
+    },
+    {
+      "id":7,
+      "judul":"Plank with hip dips",
+      "deskripsi":"This exercise is really great for the obliques",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting7.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting7/"
+    },
+    {
+      "id":8,
+      "judul":"Plank Jack's straightaway",
+      "deskripsi":"Make sure you keep your core engaged and let's smash this you can do this",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting8.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting8/"
+    },
+    {
+      "id":9,
+      "judul":"The hundreds bring your legs off the ground",
+      "deskripsi":"You can have your knees bent or straight then stop pumping your legs up and down. This is super hard",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting9.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting9/"
+    },
+    {
+      "id":10,
+      "judul":"Chrunch",
+      "deskripsi":"Get ready for crunches next squeeze those ABS guys, we're more than halfway through you can do this",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting10.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting10/"
+    },
+    {
+      "id":11,
+      "judul":"up and down plank",
+      "deskripsi":"Make sure your toys tight and engage in your butt is not poking up or drooping down",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting11.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting11/"
+    },
+    {
+      "id":12,
+      "judul":"Plank",
+      "deskripsi":"Now get ready into a plank position again make sure your core is tight and your glutes are engaged and tucked in",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting12.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting12/"
+    },
+    {
+      "id":13,
+      "judul":"Heel tap",
+      "deskripsi":"Well, we have a little break and heel touches are next Touch your heel with your hands and this is really great for the obliques too",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting13.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting13/"
+    },
+    {
+      "id":14,
+      "judul":"Bicycle Chrunch",
+      "deskripsi":"Straight away we have bicycle punch. I know I'm really pushing you guys here, but we are almost done with the workout guys. Keep going",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting14.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting14/"
+    },
+    {
+      "id":15,
+      "judul":"Reverse crunch with leg extension",
+      "deskripsi":"Make sure you're using core muscles to lift your hips up",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting15.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting15/"
+    },
+    {
+      "id":16,
+      "judul":"Straight leg crunch",
+      "deskripsi":"Now get ready for straight leg crunch do a couple of crunch pulses and you can do Bent-knee crunch if you prefer that instead",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting16.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting16/"
+    },
+    {
+      "id":17,
+      "judul":"Last exercise",
+      "deskripsi":"And the last exercise we have today is up-and-down plank, let's finish this guy's you can do this",
+      "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting17.webp",
+      "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting17/"
+    }
+  ]
+    
+   
+}
