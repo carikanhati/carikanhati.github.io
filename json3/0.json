@@ -4,7 +4,7 @@
       "select_ads": "ISI",
       "status_app": "0",
       "link_redirect": "https://",
-      "sbackup_mode": "ISI",
+      "backup_mode": "ISI",
 
 
       "admob_inter1": "",
