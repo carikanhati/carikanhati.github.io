@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_ads": "ISI",
+      "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "ISI",
+      "backup_mode": "STARTAPP",
 
 
       "admob_inter1": "",
@@ -18,9 +18,9 @@
       "interval_intertitial": "5",
       "startappid": "203085380",
 
-      "fan_inter": "XX",
-      "fan_native_banner": "XX",
-      "fan_native": "XX",
+      "fan_inter": "165423975443441_165424002110105",
+      "fan_native_banner": "165423975443441_204982611487577",
+      "fan_native": "165423975443441_204981874820984",
 
       "mopub_banner": "XX",
       "mopub_inter": "XX"
