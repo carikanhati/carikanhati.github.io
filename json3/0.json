@@ -15,8 +15,12 @@
       "admob_open": "",
 
 
-      "interval_intertitial": "5",
+      "interval": 5,
       "startappid": "203085380",
+      "age1": 18,
+      "age2": 25,
+      "age3": 30,
+      "age4": 45,
 
       "fan_inter": "XX",
       "fan_native_banner": "XX",

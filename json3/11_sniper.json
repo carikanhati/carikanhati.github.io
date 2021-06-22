@@ -1,0 +1,29 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "STARTAPP",
+
+
+      "admob_inter1": "",
+      "admob_inter2": "",
+      "admob_inter3": "",
+      "admob_native": "",
+      "admob_native_banner": "",
+      "admob_open": "",
+
+
+      "interval_intertitial": "5",
+      "startappid": "203085380",
+
+      "fan_inter": "353649156079031_353649192745694",
+      "fan_native_banner": "353649156079031_388422572601689",
+      "fan_native": "353649156079031_388422155935064",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}
