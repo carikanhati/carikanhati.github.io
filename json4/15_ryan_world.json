@@ -1,0 +1,33 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ISI",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "ISI",
+
+
+      "admob_inter1": "",
+      "admob_inter2": "",
+      "admob_inter3": "",
+      "admob_native": "",
+      "admob_native_banner": "",
+      "admob_open": "",
+
+
+      "interval": 5,
+      "startappid": "203085380",
+      "age1": 18,
+      "age2": 25,
+      "age3": 30,
+      "age4": 45,
+
+      "fan_inter": "2522256177898330_2522256284564986",
+      "fan_native_banner": "2522256177898330_2666896500100963",
+      "fan_native": "2522256177898330_2666895880101025",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}
