@@ -1,0 +1,31 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "STARTAPP",
+
+
+      "admob_inter1": "ca-app-pub-8201235988570974/1965386776",
+      "admob_native": "ca-app-pub-8201235988570974/3030577509",
+      "admob_native_banner": "ca-app-pub-8201235988570974/4318774296",
+      "admob_open": "ca-app-pub-8201235988570974/6184721435",
+
+
+      "interval": 5,
+      "startappid": "203085380",
+      "age1": 18,
+      "age2": 25,
+      "age3": 30,
+      "age4": 45,
+
+      "fan_inter": "958996404846137_958996454846132",
+      "fan_native_banner": "958996404846137_958996451512799",
+      "fan_native": "958996404846137_958996444846133",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}

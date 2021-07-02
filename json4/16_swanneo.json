@@ -8,6 +8,8 @@
 
 
       "admob_inter1": "",
+      "admob_inter2": "",
+      "admob_inter3": "",
       "admob_native": "",
       "admob_native_banner": "",
       "admob_open": "",
@@ -20,9 +22,9 @@
       "age3": 30,
       "age4": 45,
 
-      "fan_inter": "XX",
-      "fan_native_banner": "XX",
-      "fan_native": "XX",
+      "fan_inter": "165423975443441_165424002110105",
+      "fan_native_banner": "165423975443441_204982611487577",
+      "fan_native": "165423975443441_204981874820984",
 
       "mopub_banner": "XX",
       "mopub_inter": "XX"
