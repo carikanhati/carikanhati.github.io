@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "ADMOB",
+      "backup_mode": "STARTAPP",
 
 
       "admob_inter1": "ca-app-pub-8201235988570974/2426289889",
