@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "NO",
+      "backup_mode": "APPLOVIN",
 
 
       "admob_inter1": "ca-app-pub-8201235988570974/3257114659",
