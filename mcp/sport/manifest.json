@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Sports Pack",
+        "uuid": "b753c938-ad8f-4300-9733-8c7f6282feb0",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "33c59f41-3805-4bfd-9197-719f15fc9eeb",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

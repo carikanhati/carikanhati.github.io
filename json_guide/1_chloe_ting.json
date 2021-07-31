@@ -6,12 +6,12 @@
       "status": "jangan diisi",
       "link": "https://play.google.com/store/apps/details?id=",
 
-      "select_ads":"admo",
+      "select_ads":"ADMOB",
 
 
-      "admob_inter": "57297",
-      "admob_native_banner":"4343",
-      "admob_open": "57297",
+      "admob_inter": "ca-app-pub-8201235988570974/9712121028",
+      "admob_native_banner":"ca-app-pub-8201235988570974/9582282600",
+      "admob_open": "ca-app-pub-8201235988570974/5996043770",
 
 
       "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
