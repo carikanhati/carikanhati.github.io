@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "EU part 1",
+        "uuid": "eb3c4448-645f-47e4-ae4a-a7ab9de66e8e",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "2b28b1a6-c241-4202-b053-d77d962845d5",
+            "version": [0, 0, 1]
+        }
+    ]
+}

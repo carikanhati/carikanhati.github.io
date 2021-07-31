@@ -1,0 +1,88 @@
+{
+  "skin": [
+    {
+      "localization_name": "Jack",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Jack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Brees",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Brees.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dexter",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Dexter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Carla",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Carla.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zane",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Zane.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paul",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Paul.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeps",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Creeps.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jaxon",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Jaxon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Max",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Max.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ricky",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Ricky.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mia",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Mia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Riley",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Riley.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lucas",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Lucas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Oliver",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/swat/Oliver.png",
+      "type": "free"
+    }
+  ]
+}

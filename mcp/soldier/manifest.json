@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "§l§3Soldiers",
+        "uuid": "016c9ca0-4c58-4c44-ad9a-d0282ec7624f",
+        "version": [ 1, 0, 0 ]
+        },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "eab40d54-ba5a-43b7-aac8-cf2fdfca5f5e",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}

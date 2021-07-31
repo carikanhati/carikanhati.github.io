@@ -1,0 +1,112 @@
+{
+  "skin": [
+    {
+      "localization_name": "UK",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/unitedkingdom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "au",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/austria.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "de",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/denmark.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "en",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/england.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "fi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/finland.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "fr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/france.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ge",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/georgia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ger",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/germany.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ire",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/ireland.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "la",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/latvia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/morroco.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "no",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/norway.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "po",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/poland.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ru",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/russia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sc",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/scotland.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sw",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/sweden.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "swi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/switzerland.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "wal",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/europe_flag/yowales.png",
+      "type": "free"
+    }
+  ]
+}

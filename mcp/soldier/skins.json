@@ -1,0 +1,58 @@
+{
+  "skin": [
+    {
+      "localization_name": "David",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/David.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jack",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Jack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lucy",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Lucy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nick",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Nick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Oliver",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Oliver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sands",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Sands.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dan",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Dan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mike",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Mike.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Miles",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "https://carikanhati.github.io/mcp/soldier/Miles.png",
+      "type": "free"
+    }
+  ]
+}

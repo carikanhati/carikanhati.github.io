@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "§l§bSWAT",
+        "uuid": "291cf278-d05c-496b-bf7d-d435a52bb6ba",
+        "version": [ 1, 0, 0 ]
+        },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "74e7f3c8-0d7a-497e-a003-1261496ff9bb",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
+
+//Made By: Enderboy HD 1
