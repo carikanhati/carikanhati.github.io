@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "HD Faces On Skins",
+        "name": "HD Faces On Skins 2.0",
+        "uuid": "6650415f-9d9d-4e53-af97-8fce672004be",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "HD Faces On Skins",
+            "type": "skin_pack",
+            "uuid": "7452a940-5c40-4ec4-9c44-35dee67ed932",
+            "version": [0, 0, 1]
+        }
+    ]
+}

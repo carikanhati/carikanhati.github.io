@@ -1,0 +1,94 @@
+{
+  "skin": [
+    {
+      "localization_name": "deannorrishdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/deannorrishdskin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "featurelength",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/featurelength.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "flushedfaceemojiskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/flushedfaceemojiskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hdmorshuskinbutbetter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/hdmorshuskinbutbetter.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hotfaceemojiskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/hotfaceemojiskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "stoppostingamongusskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/stoppostingamongusskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "whenimposterissushdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/whenimposterissushdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "gruhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/gruhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "rickrollhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/rickrollhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "timlockwoodhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/timlockwoodhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "trollfacehdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/trollfacehdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "vectorohyeahhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/vectorohyeahhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "walterwhitehdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/walterwhitehdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    }
+
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"YES",
+      "initial_mopub":"NO",
+      "initial_applovin":"YES",
+      "initial_startapp":"NO",
+
+      "select_banner":"ADMOB",
+      "select_inter":"ADMOB",
+      "select_reward":"ADMOB",
+      "select_backup_reward":"APPLOVIN",
+      "select_backup_ads":"APPLOVIN",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "YES",
+
+
+      "admob_inter": "ca-app-pub-8201235988570974/7135302414",
+      "admob_native": "ca-app-pub-8201235988570974/3622598668",
+      "admob_native_banner": "ca-app-pub-8201235988570974/4509139073",
+      "admob_open": "ca-app-pub-8201235988570974/2428118253",
+      "admob_reward":"ca-app-pub-8201235988570974/9813436646",
+      "banner_apa_native":"NATIVE",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "07ec0049284c0721",
+      "applovin_reward": "7e66a66a29db9238",
+      "applovin_mrec": "48e308f4dd8d0996"
+    }
+  ],
+
+
+"skin": [
+    {
+      "localization_name": "deannorrishdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/deannorrishdskin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "featurelength",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/featurelength.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "flushedfaceemojiskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/flushedfaceemojiskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hdmorshuskinbutbetter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/hdmorshuskinbutbetter.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hotfaceemojiskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/hotfaceemojiskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "stoppostingamongusskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/stoppostingamongusskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "whenimposterissushdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/whenimposterissushdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "gruhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/gruhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "rickrollhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/rickrollhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "timlockwoodhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/timlockwoodhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "trollfacehdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/trollfacehdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "vectorohyeahhdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/vectorohyeahhdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "walterwhitehdskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/face/walterwhitehdskin.png",
+      "cape": "cape.png",
+      "type": "free"
+    }
+
+  ],
+
+  "Addons":
+  [
+    
+    {
+      "id":3,
+      "nama_add":"Number",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Among",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+    {
+      "id":2,
+      "nama_map":"Achieve",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Core",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Hello",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    }
+  ]
+}
