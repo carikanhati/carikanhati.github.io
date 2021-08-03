@@ -1,0 +1,46 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "More Axolotl Variants Res",
+		"description": "made by ftere, resource pack",
+		"uuid": "58b16289-95ab-44f6-b672-a2b9239125cd",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "ead51eb7-e69e-41be-a520-1c7e4d7574b4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+    "subpacks": [
+    	{
+    		"folder_name": "fantasy_axolotls",
+    		"name": "§c5 Axolotls' colors that you will probably never find in reality!\nVariants: Red, Green, Orange, Silver and Black. Modified blue axolotl spawn rate.\n§r§4REMEMBER TO SET THE SAME SETTINGS ON THE BEHAVIOUR PACK TOO",
+    		"memory_tier": 1
+    	},
+    	{
+    		"folder_name": "real_life_axolotls",
+    		"name": "§e5 more axolotls variants that you could find in real life!\nVariants: Melanoid, Wild Green, Lavander, Mosaic and Enigma. Axolotl spawn rate based on real life.\n§r§4REMEMBER TO SET THE SAME SETTINGS ON THE BEHAVIOUR PACK TOO",
+    		"memory_tier": 2
+    	},
+    	{
+    		"folder_name": "all_axolotls",
+    		"name": "§aAll the axolotls variants that you can find in the other packs, together!\nVariants: Red, Green, Orange, Silver, Black, Melanoid, Wild Green, Lavander, Mosaic and Enigma. Axolotl spawn rate mixed.\n§r§4REMEMBER TO SET THE SAME SETTINGS ON THE BEHAVIOUR PACK TOO",
+    		"memory_tier": 3
+    	}
+    ]
+}

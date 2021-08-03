@@ -1,0 +1,21 @@
+//by ftere
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ft:axolotl_bucket_silver"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:block_placer": {
+				"block": "ft:axolotl_block_silver"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.buckets"
+			},
+			"minecraft:icon": {
+				"texture": "axolotl_bucket_silver"
+			}
+		}
+	}
+}

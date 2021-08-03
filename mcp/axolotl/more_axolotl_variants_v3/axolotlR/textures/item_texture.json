@@ -1,0 +1,97 @@
+//bridge-file-version: #0
+{
+	"resource_pack_name": "Be-Low",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"axolotl_bucket_lucy": {
+			"textures": "textures/items/axolotl_bucket_lucy"
+		},
+		"axolotl_bucket_cyan": {
+			"textures": "textures/items/axolotl_bucket_cyan"
+		},
+		"axolotl_bucket_gold": {
+			"textures": "textures/items/axolotl_bucket_gold"
+		},
+		"axolotl_bucket_wild": {
+			"textures": "textures/items/axolotl_bucket_wild"
+		},
+		"axolotl_bucket_blue": {
+			"textures": "textures/items/axolotl_bucket_blue"
+		},
+		"axolotl_bucket_lucy_baby": {
+			"textures": "textures/items/axolotl_bucket_lucy_baby"
+		},
+		"axolotl_bucket_cyan_baby": {
+			"textures": "textures/items/axolotl_bucket_cyan_baby"
+		},
+		"axolotl_bucket_gold_baby": {
+			"textures": "textures/items/axolotl_bucket_gold_baby"
+		},
+		"axolotl_bucket_wild_baby": {
+			"textures": "textures/items/axolotl_bucket_wild_baby"
+		},
+		"axolotl_bucket_blue_baby": {
+			"textures": "textures/items/axolotl_bucket_blue_baby"
+		},
+		"axolotl_bucket_red": {
+			"textures": "textures/items/axolotl_bucket_red"
+		},
+		"axolotl_bucket_green": {
+			"textures": "textures/items/axolotl_bucket_green"
+		},
+		"axolotl_bucket_orange": {
+			"textures": "textures/items/axolotl_bucket_orange"
+		},
+		"axolotl_bucket_silver": {
+			"textures": "textures/items/axolotl_bucket_silver"
+		},
+		"axolotl_bucket_black": {
+			"textures": "textures/items/axolotl_bucket_black"
+		},
+		"axolotl_bucket_red_baby": {
+			"textures": "textures/items/axolotl_bucket_red_baby"
+		},
+		"axolotl_bucket_green_baby": {
+			"textures": "textures/items/axolotl_bucket_green_baby"
+		},
+		"axolotl_bucket_orange_baby": {
+			"textures": "textures/items/axolotl_bucket_orange_baby"
+		},
+		"axolotl_bucket_silver_baby": {
+			"textures": "textures/items/axolotl_bucket_silver_baby"
+		},
+		"axolotl_bucket_black_baby": {
+			"textures": "textures/items/axolotl_bucket_black_baby"
+		},
+		"axolotl_bucket_melanoid": {
+			"textures": "textures/items/axolotl_bucket_melanoid"
+		},
+		"axolotl_bucket_wild_green": {
+			"textures": "textures/items/axolotl_bucket_wild_green"
+		},
+		"axolotl_bucket_lavander": {
+			"textures": "textures/items/axolotl_bucket_lavander"
+		},
+		"axolotl_bucket_mosaic": {
+			"textures": "textures/items/axolotl_bucket_mosaic"
+		},
+		"axolotl_bucket_enigma": {
+			"textures": "textures/items/axolotl_bucket_enigma"
+		},
+		"axolotl_bucket_melanoid_baby": {
+			"textures": "textures/items/axolotl_bucket_melanoid_baby"
+		},
+		"axolotl_bucket_wild_green_baby": {
+			"textures": "textures/items/axolotl_bucket_wild_green_baby"
+		},
+		"axolotl_bucket_lavander_baby": {
+			"textures": "textures/items/axolotl_bucket_lavander_baby"
+		},
+		"axolotl_bucket_mosaic_baby": {
+			"textures": "textures/items/axolotl_bucket_mosaic_baby"
+		},
+		"axolotl_bucket_enigma_baby": {
+			"textures": "textures/items/axolotl_bucket_enigma_baby"
+		}
+	}
+}

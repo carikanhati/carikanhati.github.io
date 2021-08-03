@@ -1,0 +1,58 @@
+item.axolotlAdultBodySingle.name=Adult %1$s Axolotl
+item.axolotlBabyBodySingle.name=Baby %1$s Axolotl
+item.axolotlColorLucy.name=Leucistic
+item.axolotlColorCyan.name=Cyan
+item.axolotlColorGold.name=Gold
+item.axolotlColorWild.name=Brown
+item.axolotlColorBlue.name=Blue
+item.axolotlColorRed.name=Red
+item.axolotlColorGreen.name=Green
+item.axolotlColorOrange.name=Orange
+item.axolotlColorSilver.name=Silver
+item.axolotlColorBlack.name=Black
+item.axolotlColorMelanoid.name=Melanoid
+item.axolotlColorWild_Green.name=Wild Green
+item.axolotlColorLavander.name=Lavander
+item.axolotlColorMosaic.name=Mosaic
+item.axolotlColorEnigma.name=Enigma
+
+
+
+item.ft:axolotl_bucket_lucy=Bucket of Adult Leucistic Axolotl
+item.ft:axolotl_bucket_cyan=Bucket of Adult Cyan Axolotl
+item.ft:axolotl_bucket_gold=Bucket of Adult Gold Axolotl
+item.ft:axolotl_bucket_wild=Bucket of Adult Wild Axolotl
+item.ft:axolotl_bucket_blue=Bucket of Adult Blue Axolotl
+
+item.ft:axolotl_bucket_lucy_baby=Bucket of Baby Leucistic Axolotl
+item.ft:axolotl_bucket_cyan_baby=Bucket of Baby Cyan Axolotl
+item.ft:axolotl_bucket_gold_baby=Bucket of Baby Gold Axolotl
+item.ft:axolotl_bucket_wild_baby=Bucket of Baby Wild Axolotl
+item.ft:axolotl_bucket_blue_baby=Bucket of Baby Blue Axolotl 
+
+
+item.ft:axolotl_bucket_red=Bucket of Adult Red Axolotl
+item.ft:axolotl_bucket_green=Bucket of Adult Green Axolotl
+item.ft:axolotl_bucket_orange=Bucket of Adult Orange Axolotl
+item.ft:axolotl_bucket_silver=Bucket of Adult Silver Axolotl
+item.ft:axolotl_bucket_black=Bucket of Adult Black Axolotl
+
+item.ft:axolotl_bucket_red_baby=Bucket of Baby Red Axolotl
+item.ft:axolotl_bucket_green_baby=Bucket of Baby Green Axolotl
+item.ft:axolotl_bucket_orange_baby=Bucket of Baby Orange Axolotl
+item.ft:axolotl_bucket_silver_baby=Bucket of Baby Silver Axolotl
+item.ft:axolotl_bucket_black_baby=Bucket of Baby Black Axolotl
+
+item.ft:axolotl_bucket_melanoid=Bucket of Adult Melanoid Axolotl
+item.ft:axolotl_bucket_wild_green=Bucket of Adult Wild Green Axolotl
+item.ft:axolotl_bucket_lavander=Bucket of Adult Lavander Axolotl
+item.ft:axolotl_bucket_mosaic=Bucket of Adult Mosaic Axolotl
+item.ft:axolotl_bucket_enigma=Bucket of Adult Enigma Axolotl
+
+item.ft:axolotl_bucket_melanoid_baby=Bucket of Baby Melanoid Axolotl
+item.ft:axolotl_bucket_wild_green_baby=Bucket of Baby Wild Green Axolotl
+item.ft:axolotl_bucket_lavander_baby=Bucket of Baby Lavander Axolotl
+item.ft:axolotl_bucket_mosaic_baby=Bucket of Baby Mosaic Axolotl
+item.ft:axolotl_bucket_enigma_baby=Bucket of Baby Enigma Axolotl
+
+action.interact.catch=Catch

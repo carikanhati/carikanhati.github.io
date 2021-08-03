@@ -1,0 +1,32 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "ft:axolotl_block_orange_baby"
+		},
+		"components": {
+      "minecraft:entity_collision": false,
+      "minecraft:pick_collision": false,
+         "minecraft:material_instances": {
+                "*": {
+                    "texture": "none",
+                    "render_method": "blend"
+                }
+            },
+      "minecraft:unit_cube": {},
+		"minecraft:on_placed": {
+				"event": "spawn_axolotl"
+			}
+		},
+		"events": {
+			"spawn_axolotl": {
+				"run_command": {
+					"command": [
+						"function axolotl_orange_baby"
+					]
+				}
+			}
+		}
+	}
+}

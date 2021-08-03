@@ -1,0 +1,908 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"NO",
+      "initial_startapp":"NO",
+
+      "select_banner":"XADMOB",
+      "select_inter":"XADMOB",
+      "select_reward":"XADMOB",
+      "select_backup_reward":"XAPPLOVIN",
+      "select_backup_ads":"XAPPLOVIN",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "NO",
+
+
+      "admob_inter": "CC",
+      "admob_native": "CC",
+      "admob_native_banner": "CC",
+      "admob_open": "CC",
+      "admob_reward":"CC",
+      "banner_apa_native":"NATIVE",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "07ec0049284c0721",
+      "applovin_reward": "7e66a66a29db9238",
+      "applovin_mrec": "48e308f4dd8d0996"
+    }
+  ],
+
+
+"skin": [
+    {
+      "localization_name": "Lionel Messi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/lionel_messi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lionel Messi 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Lionel_Messi_Argentina_Barcelona.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lionel Messi 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Lionel-Messi-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cristiano Ronaldo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Cristiano_Ronaldo_Juventus_Cr7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cristiano Ronaldo 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/cristiano_ronaldo_2020.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cristiano Ronaldo 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Cristiano_Ronaldo_Portugal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gianluigi Buffon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Gianluigi_Buffon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paulo Dybala",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Paulo-Dybala-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paulo Dybala 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Dybala_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paulo Dybala 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/dybala.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Maradona",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Maradona.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Maradona 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/maradona (1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pelè",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2015_01_12_skin_20150112163156103327.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Neymar Jr.",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/Neymar-Jr-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Neymar Jr. 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/Neymar-Jr-on-planetminecraft-com (1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ronaldinho",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Ronaldinho-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ronaldinho 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2015_01_02_skin_2015010221031586254.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luis Suarez",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/luis_suarez.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luis Suarez 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2019_11_25_luis-suarez-13651909.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luis Suarez 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Luis_Suarez (1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zlatan Ibrahimovic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_07_22_zlatan-ibrahimovic-14875101.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zlatan Ibrahimovic 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/ibrahimovic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zlatan Ibrahimovic 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Zlatan_Ibrahimovic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Andrés Iniesta",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Andr-s-Iniesta-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gareth Bale",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Better-in-3D-Gareth-Bale-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luca Modric",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/modric.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luca Modric 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Luka-Modri-Real-Madrid-10-Home-Kit-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eden Hazard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Eden_Hazard_2018.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eden Hazard 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Eden-Hazard-Belgium-Kit-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kylian Mbappé",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Kylian-Mbapp-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kylian Mbappé 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/2019_11_18_kylian-mbappe-13632926.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sergio Aguero",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2018_12_22_kun-sergio-aguero-12671348.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lewandowski",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Lewandowski-2016-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mohamed Salah",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Mohamed_Salah_2018.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lukaku",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/lukaku.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/30ff06d1dfbc1c96.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/2d89857ecff224a6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/692d149c7b476758.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/27890b2e37484efa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/70f6b7fe9d2610ff.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/69bc9904b4ad796a.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/40d6ee7a5f518a28.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 7",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/4f9e01e7bab445ee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/09773aa7ee353119.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/a018da222340eb46.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/c200101b55ca0bf6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Boy 11",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/d2533f40e019504c.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/17279ff248553962.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/538736dad52faffd.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/a4c0929d7932d9e1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl 4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/bd52b76a22f99176.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl 5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/e2983c2b5b7167fe.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soccer Girl 6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/f52c85c3daac65e1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lebron James",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/637cfc62e7d9836f.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lebron James 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Lebron-James-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lebron James 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_10_15_lebron-james-15505254.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Michael Jordan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Michael_Jordan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kobe Bryant",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/kobe_bryant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kobe Bryant 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/Kobe-Bryant-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shaquille O Neal",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Shaquille_O_Neal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wilt Chamberlain",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Wilt-Chamberlain-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Magic Johnson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Magic-Johnson-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stephen Curry",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/2021_05_12_stephen-curry-17781106.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bill Russell",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Bill-Russell-Celtics-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kevin Durant",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/kevin_durant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Larry Bird",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Larry-Bird-CELTICS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "James Harden",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/James-Harden-Rockets-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tim Duncan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Tim-Duncan-SPURS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tim Duncan 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2013_09_15_skin_20130915143315169447.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hakeem Olajuw",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Hakeem-Olajuwon-ROCKETS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scottie Pippen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Scottie-Pippen-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dwyane Wade",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2013_04_21_skin_20130421142438152536.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chris Paul",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Chris-Paul-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Charles Barkley",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/charles-barkley-suns-jersey-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "David Robinson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/David-Robinson-SPURS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Russell Westbrook",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Westbrook.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dirk Nowitzki",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Dirk-Nowitzki-Request-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Karl Malone",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Karl-Malone-JAZZ-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kevin Garnett",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Kevin-Garnett-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kawhi Leonard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Kawhi-Leonard-RAPTORS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kyrie Irving",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Kyrie-Irving-3D-Skin-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anthony Davis",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Anthony-Davis-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anthony Davis 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_10_03_anthony-davis-lakers-15412924.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anthony Davis 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Anthony-Davis-2020-Lakers-Champion-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Allen Iverson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Allen-Iverson-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jason Kidd",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Jason-Kidd-Mavs-Mid-90-s-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Damian Lillard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2021_04_25_-updated--damian-lillard-cream-throwback-jersey-2019-2020-17587254.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Giannis Antetoko",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/giannis_antetokounmpo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dennis Rodman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_06_23_dennis-rodman-14663044.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/5d75baeb3aeef3b5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Steve 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/7e532605e2682723.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Steve 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/fc76ed21aaf15ea5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Steve 4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/c3a84afcf4edb3d0.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Old Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/e29aa37f48112843.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Head",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/9023662d402048d1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Bear",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/726612a66c5bece0.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/52dbddba547b195e.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/0501edbeda16a21a.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/734adc479459a92d.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/70475d9baf14ed5b.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/c7cc78b2552a1ae9.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/cf9297314e6d41b7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Basketball Boy 7",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "https://carikanhati.github.io/mcp/sport/dba44f2bb7757e22.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulk Hogan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Hulk-Hogan-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hulk Hogan 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Hulk-Hogan-on-planetminecraft-com (1).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stone Cold Steve Austin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2015_08_01_skin_20150801011221108408.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stone Cold Steve Austin 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Stone-Cold-Steve-Austin-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dwayne Johnson (The Rock)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Dwayne-The-Rock-Johnson-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dwayne Johnson (The Rock) 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_05_06_dwayne-the-mock-johnson-14292173.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ric Flair",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Ric-Flair-xbox360-minecraft-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "John Cena",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/John-cena-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "John Cena 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/JohnCena.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The Undertaker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/THE-UNDERTAKER-WWE-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shawn Michaels",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2015_04_07_skin_2015040723393390777.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Triple H",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/WWE-Triple-H-Creator-of-Havoc-T-Shirt-amp-Leather-Jacket-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Triple H 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/WWE-Triple-H-WrestleMania-33-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bret Hart",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Bret-Hitman-Hart-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Randy Savage Macho Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_06_05_macho-man-randy-savage-14530790.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Walter Payton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Walter-Payton-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tom Brady",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Tom-Brady-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Peyton Manning",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Peyton-Manning-Super-Bowl-XLI-amp-50-Attires-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Peyton Manning 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Peyton-Manning-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Odell Beckham",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Odell-Beckham-Jr-Cleveland-Browns-WR-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Johnny Unitas",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Johnny-Unitas-COLTS-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jameis Winston",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Jameis-Winston-Tampa-Bay-Buccaneers-QB-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Andrew Luck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Indianapolis-Colts-Andrew-Luck-Home-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jim Brown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Cleveland-Browns-Jim-Brown-By-TheNarwhalSquad-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aaron Rodgers",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/Aaron-Rodgers-Green-Bay-Packers-Skin-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Joe Montana",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2020_11_26_joe-montana-15869669.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Football Monke",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/314b87fa271ac910.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Football Boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/American-Football-Player-on-planetminecraft-com.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Football Boy 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/2013_08_07_skin_2013080714561850715.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Football Boy 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/6d784734dcbb8817.png",
+      "type": "free"
+    }
+
+  ],
+
+  "Addons":
+  [
+    
+    {
+      "id":3,
+      "nama_add":"Number",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Among",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+    {
+      "id":2,
+      "nama_map":"Achieve",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Core",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Hello",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    }
+  ]
+}
