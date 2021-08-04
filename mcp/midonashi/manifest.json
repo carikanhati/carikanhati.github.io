@@ -1,0 +1,23 @@
+{
+  "header" : {
+    "name" : "Midonashi's Geese",
+    "version" : [
+      1,
+      0,
+      0
+    ],
+    "uuid" : "5B56A157-CA24-4148-91D7-7F1ABD8DFC04"
+  },
+  "modules" : [
+    {
+      "type" : "skin_pack",
+      "version" : [
+        1,
+        0,
+        0
+      ],
+      "uuid" : "6845E5DC-44F4-4590-AC31-C1B512AEFE9D"
+    }
+  ],
+  "format_version" : 1
+}

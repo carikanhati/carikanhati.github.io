@@ -1,0 +1,124 @@
+{
+  "skin" : [
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Blue Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Blue Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Tommygooseit",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Tommygooseit.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "White Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/White Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Steve Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Steve Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Orange Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Orange Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Commanding Shark Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Commanding Shark Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "DaGoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/DaGoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Red Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Red Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Midonashi Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Midonashi Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Black Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Black Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Commanding Shark",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Commanding Shark.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Turtle Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Turtle Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Lime Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Lime Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Zombie Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Zombie Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Purple Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Purple Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "King Necked Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/King Necked Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Magenta Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Magenta Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Monkegoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Monkegoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "King of Geese",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/King of Geese.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Dream Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Dream Goose.png"
+    }
+  ]
+}

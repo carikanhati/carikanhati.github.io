@@ -1,0 +1,229 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"NO",
+      "initial_startapp":"NO",
+
+      "select_banner":"XADMOB",
+      "select_inter":"XADMOB",
+      "select_reward":"XADMOB",
+      "select_backup_reward":"XAPPLOVIN",
+      "select_backup_ads":"XAPPLOVIN",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "NO",
+
+
+      "admob_inter": "CC",
+      "admob_native": "CC",
+      "admob_native_banner": "CC",
+      "admob_open": "CC",
+      "admob_reward":"CC",
+      "banner_apa_native":"NATIVE",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "07ec0049284c0721",
+      "applovin_reward": "7e66a66a29db9238",
+      "applovin_mrec": "48e308f4dd8d0996"
+    }
+  ],
+
+
+"skin" : [
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Blue Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Blue Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Tommygooseit",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Tommygooseit.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "White Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/White Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Steve Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Steve Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Orange Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Orange Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Commanding Shark Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Commanding Shark Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "DaGoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/DaGoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Red Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Red Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Midonashi Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Midonashi Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Black Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Black Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Commanding Shark",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Commanding Shark.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Turtle Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Turtle Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Lime Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Lime Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Zombie Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Zombie Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Purple Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Purple Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "King Necked Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/King Necked Goose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Magenta Amongoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Magenta Amongoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Monkegoose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Monkegoose.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "King of Geese",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/King of Geese.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "Dream Goose",
+      "texture" : "https://carikanhati.github.io/mcp/midonashi/Dream Goose.png"
+    }
+],
+
+  "Addons":
+  [
+    
+    {
+      "id":3,
+      "nama_add":"Number",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Among",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+    {
+      "id":2,
+      "nama_map":"Achieve",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Core",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Hello",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    }
+  ]
+}
