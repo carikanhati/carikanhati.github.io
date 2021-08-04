@@ -1,0 +1,160 @@
+{
+  "skin" : [
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833899-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833899-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833894-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833894-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833881-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833881-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833874-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833874-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833867-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833867-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833860-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833860-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940977-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940977-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940960-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940960-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940935-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940935-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940913-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940913-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940872-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940872-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834071-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834071-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940802-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940802-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834068-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834068-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940745-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940745-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834062-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834062-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940705-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940705-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833928-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833928-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940439-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940439-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833925-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833925-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833921-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833921-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833917-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833917-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644939687-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644939687-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833913-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833913-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833909-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833909-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833903-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833903-3px.png"
+    }
+  ]
+}

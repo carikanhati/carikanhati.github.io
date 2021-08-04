@@ -1,0 +1,23 @@
+{
+  "header" : {
+    "name" : "The Axolotl Skin Pack",
+    "version" : [
+      1,
+      0,
+      0
+    ],
+    "uuid" : "8f1b973f-7aa1-43ac-a2ba-ccf6ae5942d9"
+  },
+  "modules" : [
+    {
+      "type" : "skin_pack",
+      "version" : [
+        1,
+        0,
+        0
+      ],
+      "uuid" : "75eb0751-005b-4ff5-bdeb-93dee3d85edb"
+    }
+  ],
+  "format_version" : 1
+}

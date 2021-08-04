@@ -1,0 +1,265 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"NO",
+      "initial_startapp":"NO",
+
+      "select_banner":"XADMOB",
+      "select_inter":"XADMOB",
+      "select_reward":"XADMOB",
+      "select_backup_reward":"XAPPLOVIN",
+      "select_backup_ads":"XAPPLOVIN",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "NO",
+
+
+      "admob_inter": "CC",
+      "admob_native": "CC",
+      "admob_native_banner": "CC",
+      "admob_open": "CC",
+      "admob_reward":"CC",
+      "banner_apa_native":"NATIVE",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "07ec0049284c0721",
+      "applovin_reward": "7e66a66a29db9238",
+      "applovin_mrec": "48e308f4dd8d0996"
+    }
+  ],
+
+
+  "skin" : [
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833899-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833899-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833894-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833894-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833881-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833881-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833874-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833874-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833867-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833867-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833860-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833860-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940977-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940977-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940960-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940960-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940935-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940935-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940913-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940913-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940872-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940872-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834071-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834071-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940802-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940802-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834068-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834068-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940745-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940745-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645834062-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645834062-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940705-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940705-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833928-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833928-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644940439-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644940439-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833925-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833925-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833921-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833921-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833917-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833917-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "644939687-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/644939687-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833913-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833913-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833909-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833909-3px.png"
+    },
+    {
+      "type" : "free",
+      "geometry" : "geometry.humanoid.customSlim",
+      "localization_name" : "645833903-3px",
+      "texture" : "https://carikanhati.github.io/mcp/axolotls/645833903-3px.png"
+    }
+  ],
+
+  "Addons":
+  [
+
+    {
+      "id":1,
+      "nama_add":"Axolotls",
+      "add_url":"https://carikanhati.github.io/mcp/addon/axolotl/axolotl/axolotl.zip",
+      "addB_url":"https://carikanhati.github.io/mcp/addon/axolotl/axolotl/axolotl-B.mcpack",
+      "addR_url":"https://carikanhati.github.io/mcp/addon/axolotl/axolotl/axolotl-R.mcpack",
+      "view_add":"https://carikanhati.github.io/mcp/addon/axolotl/axolotl/axolotl.webp",
+      "des_add":"https://carikanhati.github.io/mcp/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Among",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://carikanhati.github.io/mcp/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://carikanhati.github.io/mcp/addon.html"
+    }
+  ],
+  "Maps":
+  [
+
+    {
+      "id":2,
+      "nama_map":"Achieve",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Core",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Hello",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    }
+  ]
+}
