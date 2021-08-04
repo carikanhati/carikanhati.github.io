@@ -1,0 +1,349 @@
+{
+  "skin": [
+
+    {
+      "localization_name": "ghost_1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_bag.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_pumpkin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_lightblue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_mintgreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_orange.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_pink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_purple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_red.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_strongblue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_13",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_yellow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_14",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_simple_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_15",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_special_purpin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_16",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_special_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_17",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_special_redora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_18",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_purple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_19",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_20",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_21",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_bluegreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_22",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_23",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_24",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_pink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_25",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/death_red.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_26",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_invisibility.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_27",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_28",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_29",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_blue_strong.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_30",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_green2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_31",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_greenfosfo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_32",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_mindgreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_33",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_pink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_34",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_purple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_35",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_redora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_36",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_esqueletic_yellow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_37",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_38",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_blue_strong.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_39",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_blue1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_40",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_green2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_41",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_greenfosfo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_42",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_mindgreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_43",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_pink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_44",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_purple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_45",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_redora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_46",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghost_multidimensional_yellow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_47",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_48",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_49",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_50",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_51",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_mindgreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_52",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_pink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_53",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_purple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_54",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_red.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_55",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_redora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_56",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_special_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ghost_57",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/ghost/ghostangry_special_purpin.png",
+      "type": "free"
+    }
+
+
+  ]
+}
