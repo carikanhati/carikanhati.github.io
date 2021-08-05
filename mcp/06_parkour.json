@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"NO",
+      "initial_startapp":"NO",
+
+      "select_banner":"XADMOB",
+      "select_inter":"XADMOB",
+      "select_reward":"XADMOB",
+      "select_backup_reward":"XAPPLOVIN",
+      "select_backup_ads":"XAPPLOVIN",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "NO",
+
+
+      "admob_inter": "CC",
+      "admob_native": "CC",
+      "admob_native_banner": "CC",
+      "admob_open": "CC",
+      "admob_reward":"CC",
+      "banner_apa_native":"NATIVE",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "07ec0049284c0721",
+      "applovin_reward": "7e66a66a29db9238",
+      "applovin_mrec": "48e308f4dd8d0996"
+    }
+  ],
+
+
+"skin": [
+    {
+      "localization_name": "Lionel Messi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "https://carikanhati.github.io/mcp/sport/lionel_messi.png",
+      "type": "free"
+    }
+
+  ],
+
+  "Addons":
+  [
+    
+    {
+      "id":3,
+      "nama_add":"Number",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    }
+  ],
+  
+
+  "Maps":
+  [
+
+
+    {
+      "id":1,
+      "nama_map":"Epic Parkour",
+      "map_url":"https://carikanhati.github.io/mcp/map/epic_parkour.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/epic_parkour.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+
+    {
+      "id":2,
+      "nama_map":"Grid",
+      "map_url":"https://carikanhati.github.io/mcp/map/grid.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/grid.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+
+    {
+      "id":3,
+      "nama_map":"Imposible Parkour 2",
+      "map_url":"https://carikanhati.github.io/mcp/map/imposible_parkour2.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/imposible_parkour2.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Imposible Parkour 3",
+      "map_url":"https://carikanhati.github.io/mcp/map/imposible_parkour3.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/imposible_parkour3.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Just Parkour",
+      "map_url":"https://carikanhati.github.io/mcp/map/just_parkour.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/just_parkour.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Rainbowsurf",
+      "map_url":"https://carikanhati.github.io/mcp/map/rainbowsurf.zip",
+      "view_map":"https://carikanhati.github.io/mcp/map/rainbowsurf.webp",
+      "des_map":"https://carikanhati.github.io/mcp/map.html"
+    }
+  ]
+}
