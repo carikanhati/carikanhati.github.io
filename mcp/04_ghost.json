@@ -1,29 +1,30 @@
 {
   "Ads": [
     {
-      "initial_admob":"NO",
+      "initial_admob":"YES",
       "initial_mopub":"NO",
-      "initial_applovin":"NO",
+      "initial_applovin":"YES",
       "initial_startapp":"NO",
 
-      "select_banner":"XADMOB",
-      "select_inter":"XADMOB",
-      "select_reward":"XADMOB",
-      "select_backup_reward":"XAPPLOVIN",
-      "select_backup_ads":"XAPPLOVIN",
+      "select_banner":"ADMOB",
+      "select_inter":"ADMOB",
+      "select_reward":"ADMOB",
+      "select_backup_reward":"APPLOVIN",
+      "select_backup_ads":"APPLOVIN",
 
 
 
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "NO",
+      "backup_mode": "YES",
 
 
-      "admob_inter": "CC",
-      "admob_native": "CC",
-      "admob_native_banner": "CC",
-      "admob_open": "CC",
-      "admob_reward":"CC",
+      "admob_banner": "ca-app-pub-8201235988570974/5941209045",
+      "admob_inter": "ca-app-pub-8201235988570974/8068678930",
+      "admob_native": "ca-app-pub-8201235988570974/8874849363",
+      "admob_native_banner": "ca-app-pub-8201235988570974/8874849363",
+      "admob_open": "ca-app-pub-8201235988570974/3367016590",
+      "admob_reward":"ca-app-pub-8201235988570974/4680098267",
       "banner_apa_native":"NATIVE",
 
 
@@ -39,10 +40,10 @@
       "mopub_mrec": "XX",
       "mopub_reward": "XX",
 
-      "applovin_banner": "XX",
-      "applovin_inter": "07ec0049284c0721",
-      "applovin_reward": "7e66a66a29db9238",
-      "applovin_mrec": "48e308f4dd8d0996"
+      "applovin_banner": "9fded008231870e0",
+      "applovin_inter": "4ccd9a79602de9fd",
+      "applovin_reward": "ba3be1b480698788",
+      "applovin_mrec": "e5122f389857005d"
     }
   ],
 

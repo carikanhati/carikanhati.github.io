@@ -1,25 +1,25 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
 
 
-      "admob_inter1": "",
-      "admob_inter2": "",
-      "admob_inter3": "",
-      "admob_native": "",
-      "admob_native_banner": "",
-      "admob_open": "",
+      "admob_inter1": "ca-app-pub-8201235988570974/4065020591",
+      "admob_inter2": "ca-app-pub-8201235988570974/4065020591",
+      "admob_inter3": "ca-app-pub-8201235988570974/4065020591",
+      "admob_native": "ca-app-pub-8201235988570974/5728428380",
+      "admob_native_banner": "ca-app-pub-8201235988570974/5728428380",
+      "admob_open": "ca-app-pub-8201235988570974/7840969299",
 
 
       "interval_intertitial": "5",
       "startappid": "203085380",
 
-      "fan_inter": "1958491804326237_1958491854326232",
-      "fan_native_banner": "1958491804326237_1958491844326233",
-      "fan_native": "1958491804326237_1958491860992898",
+      "fan_inter": "QQ",
+      "fan_native_banner": "QQ",
+      "fan_native": "QQ",
 
       "mopub_banner": "XX",
       "mopub_inter": "XX"

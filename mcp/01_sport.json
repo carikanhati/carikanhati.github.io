@@ -20,6 +20,7 @@
 
 
       "admob_inter": "ca-app-pub-8201235988570974/7135302414",
+      "admob_banner": "ca-app-pub-8201235988570974/6591945731",
       "admob_native": "ca-app-pub-8201235988570974/3622598668",
       "admob_native_banner": "ca-app-pub-8201235988570974/4509139073",
       "admob_open": "ca-app-pub-8201235988570974/2428118253",
@@ -39,7 +40,7 @@
       "mopub_mrec": "XX",
       "mopub_reward": "XX",
 
-      "applovin_banner": "XX",
+      "applovin_banner": "1abf364c3c103a0c",
       "applovin_inter": "07ec0049284c0721",
       "applovin_reward": "7e66a66a29db9238",
       "applovin_mrec": "48e308f4dd8d0996"
