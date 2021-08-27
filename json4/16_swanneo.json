@@ -7,10 +7,10 @@
       "backup_mode": "APPLOVIN",
 
 
-      "admob_inter1": "ca-app-pub-8201235988570974/8098377797",
-      "admob_native": "ca-app-pub-8201235988570974/4159132789",
-      "admob_native_banner": "ca-app-pub-8201235988570974/2846051116",
-      "admob_open": "ca-app-pub-8201235988570974/1532969440",
+      "admob_inter1": "XXca-app-pub-8201235988570974/8098377797",
+      "admob_native": "XXca-app-pub-8201235988570974/4159132789",
+      "admob_native_banner": "XXca-app-pub-8201235988570974/2846051116",
+      "admob_open": "XXca-app-pub-8201235988570974/1532969440",
 
 
       "interval": 5,
