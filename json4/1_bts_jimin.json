@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
       "backup_mode": "APPLOVIN",
 
 
-      "admob_inter1": "XXca-app-pub-8201235988570974/9712081099",
-      "admob_native": "XXca-app-pub-8201235988570974/9735958756",
-      "admob_native_banner": "XXca-app-pub-8201235988570974/7109795412",
-      "admob_open": "XXca-app-pub-8201235988570974/8398999423",
+      "admob_inter1": "ca-app-pub-8201235988570974/9712081099",
+      "admob_native": "ca-app-pub-8201235988570974/9735958756",
+      "admob_native_banner": "ca-app-pub-8201235988570974/7109795412",
+      "admob_open": "ca-app-pub-8201235988570974/8398999423",
 
 
       "interval": 5,
@@ -20,9 +20,9 @@
       "age3": 30,
       "age4": 45,
 
-      "fan_inter": "289450802791958_289450846125287",
-      "fan_native_banner": "289450802791958_325615115842193",
-      "fan_native": "289450802791958_325614965842208",
+      "fan_inter": "XX289450802791958_289450846125287",
+      "fan_native_banner": "XX289450802791958_325615115842193",
+      "fan_native": "XX289450802791958_325614965842208",
 
       "mopub_banner": "XX",
       "mopub_inter": "XX"

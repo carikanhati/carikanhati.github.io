@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
       "backup_mode": "APPLOVIN",
 
 
-      "admob_inter1": "XXca-app-pub-8201235988570974/2284488924",
-      "admob_native": "XXca-app-pub-8201235988570974/4077110417",
-      "admob_native_banner": "XXca-app-pub-8201235988570974/8960210935",
-      "admob_open": "XXca-app-pub-8201235988570974/7647129260",
+      "admob_inter1": "ca-app-pub-8201235988570974/2284488924",
+      "admob_native": "ca-app-pub-8201235988570974/4077110417",
+      "admob_native_banner": "ca-app-pub-8201235988570974/8960210935",
+      "admob_open": "ca-app-pub-8201235988570974/7647129260",
 
 
       "interval": 5,
