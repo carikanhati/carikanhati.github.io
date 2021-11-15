@@ -8,7 +8,7 @@
       "main_ads_inter":"ca-app-pub-8201235988570974/8028766040",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_inter":"e3d781871bcaebef",
       "backup_ads_banner":"DefaultBanner",
 
       "initial_sdk":"INITIALIZE_SDK",
@@ -20,7 +20,7 @@
       "admob_open": "ca-app-pub-8201235988570974/7057824522",
       "admob_open2": "ca-app-pub-8201235988570974/6699194235",
       "open_only": "MIX",
-      "lawas": "YES",
+      "lawas": "NO",
       "fan": "NO",
 
       "mode3d": "1",
