@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+      "initial_sdk_backup":"204608747",
 
 
 
@@ -26,11 +26,11 @@
       "mode3d": "1",
       "url3d": "https://aliendro.id/skinview/tools/3dskinviewer/index.php?url=",
 
-      "hpk1": "insurance",
-      "hpk2": "aparel",
+      "hpk1": "cars",
+      "hpk2": "transfer",
       "hpk3": "sport",
-      "hpk4": "car",
-      "hpk5": "vps",
+      "hpk4": "stream",
+      "hpk5": "video",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
