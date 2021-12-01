@@ -2,17 +2,17 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOB",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_inter":"ca-app-pub-8201235988570974/2284488924",
+      "main_ads_intertitial":"ca-app-pub-8201235988570974/2284488924",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_inter":"62cf6feb2e6e3726",
+      "backup_ads_intertitial":"62cf6feb2e6e3726",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"203085380",
+      "initialize_sdk":"initializeIZE_SDK",
+      "initialize_sdk_backup_ads":"203085380",
 
 
 
@@ -20,14 +20,14 @@
       "admob_open": "ca-app-pub-8201235988570974/7647129260",
       "admob_open2": "ca-app-pub-8201235988570974/9815138700",
       "open_only": "MIX",
-      "lawas": "NO",
+      "lawas": "MIX",
       "fan": "645044450000405_645044506667066",
 
-      "hpk1": "",
-      "hpk2": "",
-      "hpk3": "",
-      "hpk4": "",
-      "hpk5": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"

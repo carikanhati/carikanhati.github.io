@@ -2,17 +2,17 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOBX",
+      "select_main_ads":"ADMOBX",
       "select_backup_ads":"IRONX",
 
-      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_intertitial":"DefaultInterstitial",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"203085380",
+      "initialize_sdk":"initializeIZE_SDK",
+      "initialize_sdk_backup_ads":"203085380",
 
 
 
@@ -20,14 +20,14 @@
       "admob_open": "xx",
       "admob_open2": "xx",
       "open_only": "MIX",
-      "lawas": "NO",
+      "lawas": "MIX",
       "fan": "NO",
 
-      "hpk1": "",
-      "hpk2": "",
-      "hpk3": "",
-      "hpk4": "",
-      "hpk5": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
