@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
-      "initialize_sdk":"initializeIZE_SDK",
+      "initialize_sdk":"initialize_sdk",
       "initialize_sdk_backup_ads":"203085380",
 
 
