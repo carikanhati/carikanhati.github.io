@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"APPLOVIN-D",
 
       "main_ads_intertitial":"ca-app-pub-8201235988570974/2426289889",
       "main_ads_banner":"DefaultBanner",
@@ -20,9 +20,9 @@
       "admob_open": "ca-app-pub-8201235988570974/7970615828",
       "admob_open2": "ca-app-pub-8201235988570974/2680997525",
       "open_only": "NO",
-      "lawas": "YES",
+      "lawas": "NO",
       "fan": "NO",
-      "interval":0,
+      "interval":2,
 
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",

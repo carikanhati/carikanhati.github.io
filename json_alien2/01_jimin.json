@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"bdfed2045e1b045a",
       "backup_ads_banner":"DefaultBanner",
 
-      "initialize_sdk":"initializeIZE_SDK",
+      "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"203085380",
 
 
@@ -20,7 +20,7 @@
       "admob_open": "ca-app-pub-8201235988570974/8398999423",
       "admob_open2": "ca-app-pub-8201235988570974/8398999423",
       "open_only": "NO",
-      "lawas": "MIX",
+      "lawas": "NO",
       "fan": "NO",
 
       "high_paying_keyword_1": "",
