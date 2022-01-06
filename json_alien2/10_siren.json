@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"IRON",
 
       "main_ads_intertitial":"ca-app-pub-8201235988570974/5759332520",
       "main_ads_banner":"DefaultBanner",
@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"203085380",
+      "initialize_sdk_backup_ads":"12d8d7fb5",
 
 
 
@@ -22,7 +22,7 @@
       "open_only": "MIX",
       "lawas": "NO",
       "fan": "NO",
-      "interval":0,
+      "interval":1,
 
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",

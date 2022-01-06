@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"203085380",
+      "initialize_sdk_backup_ads":"12d8ff88d",
 
 
 
@@ -24,7 +24,7 @@
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
-      "interval":0,
+      "interval":1,
 
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
