@@ -5,20 +5,22 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"IRON",
 
-      "main_ads_intertitial":"ca-app-pub-8201235988570974/6307072290",
+      "main_ads_intertitial":"ca-app-pub-8201235988570974/9073146217",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"1194b5f0d",
+      "initialize_sdk_backup_ads":"12d8bb375",
 
 
 
-      "admob_native": "ca-app-pub-8201235988570974/9735958756",
-      "admob_open": "ca-app-pub-8201235988570974/1063724170",
-      "admob_open2": "ca-app-pub-8201235988570974/8398999423",
+      "admob_native": "ca-app-pub-8201235988570974/5506014563",
+      "admob_native2": "ca-app-pub-8201235988570974/5037106660",
+      "admob_native3": "ca-app-pub-8201235988570974/9701565395",
+      "admob_open": "ca-app-pub-8201235988570974/6446982872",
+      "admob_open2": "ca-app-pub-8201235988570974/9062116196",
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
@@ -27,8 +29,8 @@
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "ca-app-pub-8201235988570974/7109795412",
-      "high_paying_keyword_5": "ca-app-pub-8201235988570974/9712081099",
+      "high_paying_keyword_4": "ca-app-pub-8201235988570974/3523943939",
+      "high_paying_keyword_5": "ca-app-pub-8201235988570974/6517772936",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
