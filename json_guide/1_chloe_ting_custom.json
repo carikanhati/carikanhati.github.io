@@ -1,43 +1,4 @@
 {
-  "Iklan": [
-    {
-
-      "select_main_ads":"ADMOB",
-      "select_backup_ads":"IRONX",
-
-      "main_ads_intertitial":"ca-app-pub-8201235988570974/3521752542",
-      "main_ads_banner":"DefaultBanner",
-
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"DefaultBanner",
-
-      "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"203085380",
-
-
-
-      "admob_native": "ca-app-pub-8201235988570974/4643262523",
-      "admob_open": "ca-app-pub-8201235988570974/5764772501",
-      "admob_open2": "ca-app-pub-8201235988570974/5764772501",
-      "open_only": "NO",
-      "lawas": "NO",
-      "fan": "NO",
-      "interval": 2,
-      
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "ca-app-pub-8201235988570974/6881934128",
-      "high_paying_keyword_5": "ca-app-pub-8201235988570974/8582507539",
-      
-      "status": "0879869867896879667567576",
-      "link": "https://",
-
-      "deskripsi_update": "0879869867896879667567576",
-      "version_app": "1",
-    }
-  ],
-
   "Weblink":
   [
     {
@@ -158,6 +119,42 @@
       "deskripsi":"And the last exercise we have today is up-and-down plank, let's finish this guy's you can do this",
       "image":"https://carikanhati.github.io/guide/chloe_ting_image/chloe_ting/a17.webp",
       "link":"https://carikanhati.github.io/guide/chloe_ting/chloe_ting17/"
+    }
+  ],
+
+ "Iklan": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "main_ads_intertitial": "ca-app-pub-8201235988570974/3521752542",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"203085380",
+
+      "admob_native": "ca-app-pub-8201235988570974/4643262523",
+      "admob_open": "ca-app-pub-8201235988570974/5764772501",
+      "admob_open2": "ca-app-pub-8201235988570974/5764772501",
+      "open_only": "NO",
+      "lawas": "NO",
+      "fan": "NO",
+      "interval": 2,
+      
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "ca-app-pub-8201235988570974/6881934128",
+      "high_paying_keyword_5": "ca-app-pub-8201235988570974/8582507539",
+      
+      "status": "0879869867896879667567576",
+      "link": "https://",
+
+      "deskripsi_update": "0879869867896879667567576",
+      "version_app": "1",
     }
   ]
 
