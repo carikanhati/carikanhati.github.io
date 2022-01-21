@@ -30,8 +30,11 @@
       "high_paying_keyword_4": "ca-app-pub-8201235988570974/6881934128",
       "high_paying_keyword_5": "ca-app-pub-8201235988570974/8582507539",
       
-      "status_app": "0879869867896879667567576",
-      "link_redirect": "https://"
+      "status": "0879869867896879667567576",
+      "link": "https://",
+
+      "deskripsi_update": "0879869867896879667567576",
+      "version_app": "1",
     }
   ],
 
