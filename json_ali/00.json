@@ -1,0 +1,34 @@
+{
+  "Ads": [
+    {
+
+      "select_main_ads":"ADMOBX",
+      "select_backup_ads":"IRONX",
+
+      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"xxx",
+
+
+
+      "admob_native": "xx",
+      "admob_open": "xx",
+      "admob_open2": "xx",
+      "interval":1,
+
+      "hpk_1": "xx",
+      "hpk_2": "xx",
+      "hpk_3": "xx",
+      "hpk_4": "xx",
+      "hpk_5": "xx",
+      
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
